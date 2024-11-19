@@ -4,7 +4,7 @@ body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
     /* Usamos un gradiente lineal para el fondo */
-    background: linear-gradient(to bottom, #002b36, #155666, #4c7b89, #93a1a1, #eee8d5, #fdf6e3);
+    background: linear-gradient(to bottom, #ff0909, #e46b6b, #f5a0a0, #cef6f6, #eee8d5, #fdf6e3);
     color: #2c3e50;
     overflow-x: hidden;
     transition: background 0.3s ease, color 0.3s ease;
